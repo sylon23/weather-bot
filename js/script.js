@@ -30,7 +30,7 @@ $(".purple").on("click", function () {
 
 
 //API call
-var api = "http://api.openweathermap.org/data/2.5/weather?q="
+var api = "https://api.openweathermap.org/data/2.5/weather?q="
 var apiKey = "&appid=f19153986dcd0a4840ac3b7ab3f12a79";
 var metric = "&units=metric";
 
